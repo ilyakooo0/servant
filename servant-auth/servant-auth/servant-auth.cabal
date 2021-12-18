@@ -25,8 +25,8 @@ extra-source-files:
 
 Flag Jose
   Description: Use jose library.
-  Default:     False
-  Manual:      True
+  Default:     True
+  Manual:      False
 
 source-repository head
   type: git
